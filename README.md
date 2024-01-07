@@ -23,9 +23,11 @@ sudah diberikan oleh owner.
 3. Halaman Home terdapat 3 fitur:
    - Add Barang : Sarah Hanna Taradipa
    - View Barang : Rizqi Indah Pratiwi
-
+     
      a. Delete Barang : Sarah Hanna Taradipa
 
      b. Edit Barang : Rizqi Indah Pratiwi
+     
+   - Logout dibuat bersama
 
-     c. Logout dibuat bersama
+
