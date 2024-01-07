@@ -19,9 +19,10 @@ sudah diberikan oleh owner.
 
 **Detail Pembagian Kelompok**
 1. Halaman awal dibuat bersama
-2. Halaman Home terdapat 2 fitur:
+2. Halaman Login dibuat bersama
+3. Halaman Home terdapat 3 fitur:
    - Add Barang : Sarah Hanna Taradipa
    - View Barang : Rizqi Indah Pratiwi
      a. Delete Barang : Sarah Hanna Taradipa
      b. Edit Barang : Rizqi Indah Pratiwi
-   - Login dan Logout dibuat bersama
+     c. Logout dibuat bersama
