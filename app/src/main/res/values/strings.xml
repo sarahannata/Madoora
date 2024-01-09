@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Madoora</string>
     <string name="detail_admin">Detail Admin</string>
+    <string name="detail_barang">Detail Barang</string>
 </resources>
