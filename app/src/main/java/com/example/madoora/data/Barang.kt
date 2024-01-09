@@ -8,6 +8,6 @@ data class Barang (
     @PrimaryKey(autoGenerate = true)
     val id : Int = 0,
     val namaBarang : String,
-    val jumlah : Int,
-    val harga : Int
+    val jumlah : String,
+    val harga : String
 )
