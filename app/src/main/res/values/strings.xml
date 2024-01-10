@@ -2,4 +2,12 @@
     <string name="app_name">Madoora</string>
     <string name="detail_admin">Detail Admin</string>
     <string name="detail_barang">Detail Barang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="harga">Harga</string>
+    <string name="edit_barang">Edit Barang</string>
+    <string name="back">Back</string>
+    <string name="entry_barang">Tambah Barang</string>
+    <string name="btn_submit">Submit</string>
+    <string name="required_field">* required fields</string>
 </resources>
