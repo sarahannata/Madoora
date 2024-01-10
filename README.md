@@ -14,7 +14,8 @@ sudah diberikan oleh owner.
 
 
 **Use Case**
-![image](https://github.com/sarahannata/Madoora/assets/115075717/1d9a4d73-b9eb-4d12-b47f-75baddd0e0b6)
+![WhatsApp Image 2024-01-10 at 22 18 17](https://github.com/sarahannata/Madoora/assets/115075717/6dc1ff23-107e-48ae-a302-a05c327d76c7)
+
 
 
 **Detail Pembagian Kelompok**
