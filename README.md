@@ -20,7 +20,7 @@ Untuk masuk kedalam aplikasi ini user harus register terlebih dahulu.
 
 **Detail Pembagian Kelompok**
 1. Halaman awal dibuat bersama
-2. Halaman Login dibuat bersama
+2. Halaman Login dan Register dibuat bersama
 3. Halaman Home terdapat 3 fitur:
    - Add Barang : Sarah Hanna Taradipa
    - View Barang : Rizqi Indah Pratiwi
