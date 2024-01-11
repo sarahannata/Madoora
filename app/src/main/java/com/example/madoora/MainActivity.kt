@@ -1,5 +1,7 @@
 package com.example.madoora
 
+import LoginPage
+import RegisterPage
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

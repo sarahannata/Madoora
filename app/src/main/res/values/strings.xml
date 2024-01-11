@@ -10,4 +10,8 @@
     <string name="entry_barang">Tambah Barang</string>
     <string name="btn_submit">Submit</string>
     <string name="required_field">* required fields</string>
+    <string name="view_title">* required fields</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="attention">Warning!!</string>
 </resources>
