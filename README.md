@@ -5,21 +5,22 @@ Madoora
 
 **Project Description**
 
-Aplikasi ini dapat digunakan untuk beberapa admin yang memiliki akses di toko Madoora. 
+Aplikasi ini dapat digunakan untuk beberapa user yang memiliki akses di toko Madoora. 
 Di dalam aplikasi ini terdapat beberapa fitur yang dapat digunakan untuk mengatur pemasukan
 dan pengeluaran barang yang ada di toko ini. Fitur-fitur tersebut adalah Add barang, 
 View Barang yang mana didalamnya terdapat dua fitur yaitu edit dan delete barang. 
-Untuk masuk kedalam aplikasi ini admin harus login terlebih dahulu dengan email yang 
-sudah diberikan oleh owner.
+Untuk masuk kedalam aplikasi ini user harus register terlebih dahulu.
 
 
 **Use Case**
-![image](https://github.com/sarahannata/Madoora/assets/115075717/1d9a4d73-b9eb-4d12-b47f-75baddd0e0b6)
+![image](https://github.com/sarahannata/Madoora/assets/115075717/e0d482dd-8481-4596-86c4-e8331329b446)
+
+
 
 
 **Detail Pembagian Kelompok**
 1. Halaman awal dibuat bersama
-2. Halaman Login dibuat bersama
+2. Halaman Login dan Register dibuat bersama
 3. Halaman Home terdapat 3 fitur:
    - Add Barang : Sarah Hanna Taradipa
    - View Barang : Rizqi Indah Pratiwi
